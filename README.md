@@ -15,7 +15,3 @@ Lifelong Learner, currently working as budagh kompeni.
     - :cloud: Pronouns: She/Her. </br>
     - :game_die: Drawing and writing are part of me. </br>
 <p>
- 
-<a href="https://www.instagram.com/yours/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://www.instagram.com/husein.tamada/" />
-</a>
