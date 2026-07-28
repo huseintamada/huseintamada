@@ -1,4 +1,4 @@
-# <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
+# <summary><strong>Welcome to my GitHub</strong></summary>
 Lifelong Learner, currently working as budagh kompeni.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
@@ -12,5 +12,4 @@ Lifelong Learner, currently working as budagh kompeni.
     - :keyboard: I’m currently learning DevOps. </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:ahmadhuseintamada9@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: He/Him. </br>
 <p>
