@@ -7,10 +7,10 @@ Lifelong Learner, currently working as budagh kompeni.
 
 ### Tools & Technologies:
 <p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://shields.io" alt="Linux" />
+  <img src="https://shields.io" alt="Docker" />
+  <img src="https://shields.io" alt="Kubernetes" />
+  <img src="https://shields.io" alt="VS Code" />
 </p>
 
 ### About Me:
